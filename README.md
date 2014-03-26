@@ -1,4 +1,0 @@
-ALFA-SHELL
-==========
-
-ALFA SHELL
