@@ -1,8 +1,6 @@
-ALFA-SHELL
-==========
+Coded By Sole Sad & Invisible
 
-ALFA SHELL
-
+ALFA SHELL ~ solevisible shell
 
  Features:
  
