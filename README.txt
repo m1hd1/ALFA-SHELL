@@ -2,6 +2,8 @@ Coded By Sole Sad & Invisible
 
 ALFA SHELL ~ solevisible shell
 
+version 2: https://github.com/solevisible/ALFA-SHELL-V2
+
  Features:
  
 SQL Connection
