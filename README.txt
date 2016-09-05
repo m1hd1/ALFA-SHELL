@@ -2,7 +2,7 @@ Coded By Sole Sad & Invisible
 
 ALFA SHELL ~ solevisible shell
 
-version 2: https://github.com/solevisible/ALFA-SHELL-V2
+version 2.5: https://github.com/solevisible/ALFA-SHELL-V2.5
 
  Features:
  
