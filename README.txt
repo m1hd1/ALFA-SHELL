@@ -1,3 +1,6 @@
+##ALFA SHELL VER 3 -- Old##
+##New Verison # https://github.com/solevisible/ALFA-SHELL-V3/
+
 Coded By Sole Sad & Invisible
 
 ALFA SHELL ~ solevisible shell
